@@ -82,7 +82,7 @@ Skapa en webbsida om Stina 9 år. Webbsidan skall innehålla följande:
 
 ### Övning 5 - Forts. Listor
 
-Vad händer om du lägger till <p>&#128512;</p> i din body? Gå tillbaka till övningen om Stina och lägg till en smiley framför de meningar som börjar med Stina.
+Vad händer om du lägger till &#128512; inuti en p-tagg i din body? Gå tillbaka till övningen om Stina och lägg till en smiley framför de meningar som börjar med Stina.
 
 Leta upp koden till lite fler emojis och lägg till dem i texten om Stina där de passar och du känner för det.
 
