@@ -80,37 +80,31 @@ Skapa en webbsida om Stina 9 år. Webbsidan skall innehålla följande:
 * En onumrerad list över saker som Stina tycker om att göra
 * En tecknad bild av Stinas favoritdjur, bilden måste ha en alt-text
 
-### Övning 5 - Forts. Listor
-
-Vad händer om du lägger till &#128512; inuti en p-tagg i din body? Gå tillbaka till övningen om Stina och lägg till en smiley framför de meningar som börjar med Stina.
-
-Leta upp koden till lite fler emojis och lägg till dem i texten om Stina där de passar och du känner för det.
-
-### Övning 6 - Recept
+### Övning 5 - Recept
 
 Skapa en webbsida med valfritt recept. Se till att ha en rubrik med receptets namn, få med en punktlista med ingredienser, en numrerad lista med instruktioner och en bild på hur rätten ser ut!
 
-### Övning 7 - Lista med länkar
+### Övning 6 - Lista med länkar
 
 Skapa en sida med en rubrik “Mina favoriter” och därunder en punktlista med länkar till några av dina favoritsidor. Använd a-taggen för länkarna. Listan kan vara numrerad eller punktad.
 
-### Övning 8 - Boksida
+### Övning 7 - Boksida
 
 Skapa en sida om en bok och se till att sidan har bild på boken och info snyggt strukturerat (boktitel, författare, genre, utgivningsår, kort beskrivning av boken och ISBN).
 
-### Övning 9 - Ada Lovelace
+### Övning 8 - Ada Lovelace
 
 Övningen [hittar du här](https://github.com/fu-html-css-fe24/exercise-html-ada-lovelace).
 
-### Övning 10 - Nyhetssidan
+### Övning 9 - Nyhetssidan
 
 Övningen [hittar du här](https://github.com/fu-html-css-fe24/exercise-html-nyhetssidan).
 
-### Övning 11 - Hyllningen
+### Övning 10 - Hyllningen
 
 Övningen [hittar du här](https://github.com/fu-html-css-fe24/exercise-html-hyllning).
 
-### Övning 12 - Klona en webbsida
+### Övning 11 - Klona en webbsida
 
 Besök valfri webbsida på webben. Fundera lite kring innehållet på webbsidan, och utifrån dina slutsatser skapar du upp en klon av webbsidan i fråga. Notera att webbsidan inte skall stylas alls, utan endast resultera i ett skal med samma innehåll som på den riktiga webbsidan. Fundera en del kring avvägningarna mellan section, article, main, aside osv. Var passar de in i din klon?
 
