@@ -14,10 +14,7 @@ Tänk på taggar som speciella ord eller instruktioner i HTML-koden som hjälper
 | p | Detta skapar en paragraf, (block-element) |
 | ul | Detta skapar en punktlista, [Exempel](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_unordered) |
 | ol | Detta skapar en numrerad lista, [Exempel](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_ordered) |
-| li | skapar en punkt i en punktlista ELLER en numrerad punkt i numrerad lista
-
-Används för både ul och ol
- |
+| li | skapar en punkt i en punktlista ELLER en numrerad punkt i numrerad lista. Används för både ul och ol |
 | h1 - h6 | Rubriker |
 | strong | Tagg som betonar ett eller flera ord genom att göra dem fetstilta |
 | em | Tagg som betonar ett eller flera ord genom att göra dem kursiva |
